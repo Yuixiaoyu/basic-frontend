@@ -209,7 +209,7 @@ npm run build
 
 如果您有任何问题或建议，请通过以下方式联系：
 
-<img src="https://youke1.picui.cn/s1/2025/09/14/68c5a03405338.jpg"></img>
+<img style="width:200px;height:280px" src="https://youke1.picui.cn/s1/2025/09/14/68c5a03405338.jpg"></img>
 
 
 ---
